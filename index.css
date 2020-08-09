@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.tools {
+  position: absolute;
+  border: 1px solid black;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+  padding: 15px;
+  z-index: 100;
+  background-color: white;
+  flex-direction: column;
+}

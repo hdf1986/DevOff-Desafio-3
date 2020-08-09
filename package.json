@@ -1,0 +1,19 @@
+{
+  "name": "devoff-desafio-3",
+  "version": "1.0.0",
+  "description": "![](https://static-cdn.jtvnw.net/jtv_user_pictures/fb425ddf-5e67-4c84-9210-8065809675f7-profile_banner-480.png) # Desafío 3 - 09/08/2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdf1986/DevOff-Desafio-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdf1986/DevOff-Desafio-3/issues"
+  },
+  "homepage": "https://github.com/hdf1986/DevOff-Desafio-3#readme"
+}
